@@ -12,7 +12,7 @@ A login page is a web page that users use to enter their login credentials to ac
 ☑️Entering a specific URL in the web browser<br>
 🕹Now here i am also creating a login page which you can use in your website...<br>
 I just modified it and gives it a animated effect 😊<br>
-👉BREIF DESCRIPTION
+👉BREIF DESCRIPTION<br>
 I have created a animated login page using Html, Css ,Javascript.Here you have two options :<br>
 Either sign in or sign up<br>
 If someone don't have any account he/she can Register here with email id and creating a password. And also other options like google, facebook, github is also available for register.<br>
